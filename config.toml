@@ -1,7 +1,35 @@
-baseURL = ""
+baseurl = "https://talentdmrripley.com"
 languageCode = "en-us"
 title = "talentdmrripley"
 theme = "ananke"
 instagram = "ripixl"
 twitter = "talentdmrripley"
 author = "Chris Ripley"
+disqusShortname = "talentdmrr"
+googleAnalytics = "UA-151349905-1"
+enableRobotsTXT = "true"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+  
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Welcome to my website."
+  facebook = ""
+  twitter = "talentdmrripley"
+  instagram = "ripixl"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = "cripley"
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/untitled-3060071.jpg"
+  recent_posts_number = 4
