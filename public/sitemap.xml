@@ -3,31 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/end-of-march/</loc>
+    <loc>https://talentdmrripley.com/about/</loc>
+    <lastmod>2021-04-04T20:30:10-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/end-of-march/</loc>
     <lastmod>2021-03-30T20:45:30-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://talentdmrripley.com/posts/</loc>
     <lastmod>2021-03-30T20:45:30-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://talentdmrripley.com/</loc>
     <lastmod>2021-03-30T20:45:30-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2021-03-20T20:53:16-07:00</lastmod>
+    <loc>https://talentdmrripley.com/posts/wfh-one-year-later/</loc>
+    <lastmod>2021-03-15T23:36:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://talentdmrripley.com/posts/dont-self-reject/</loc>
+    <lastmod>2021-03-08T23:41:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://talentdmrripley.com/posts/are-you-happy-at-work/</loc>
+    <lastmod>2020-03-15T16:55:54+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/company-culture/</loc>
+    <lastmod>2019-11-03T04:16:28+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/bullet-journaling-7-takeaways/</loc>
+    <lastmod>2019-10-27T04:55:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
