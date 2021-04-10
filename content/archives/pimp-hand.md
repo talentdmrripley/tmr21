@@ -4,9 +4,10 @@ date: 2013-02-13T12:14:15-07:00
 draft: false
 author: Chris Ripley
 comments: true
-layout: page
-categories: fiction, purple prose, bad writing
-descripton: “Pimp Hand” … Purple prose (or writing badly on purpose)
+layout: post
+keywords: ["fiction", "purple prose", "bad writing"]
+description: "Purple prose (or writing badly on purpose)"
+tags: ["writing", "fiction", "purple prose"]
 ---
 
 

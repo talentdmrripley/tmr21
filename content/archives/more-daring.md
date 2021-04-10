@@ -5,6 +5,9 @@ draft: false
 author: Chris Ripley
 comments: true
 layout: post
+description: "Can I truly be myself ever again with someone? I'll never know unless I decide vulnerability is worth it in the end."
+keywords: ["divorce", "relationships", "dating"]
+tags: ["divorce", "relationships", "dating"]
 ---
 Sitting in a Starbucks, writing this before my battery fails. I've been learning about vulnerability, and wanting more of it in my life. There's a really great book out called [*Daring Greatly,*](http://www.amazon.com/dp/1592407331) by Brene Brown.
 

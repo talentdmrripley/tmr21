@@ -5,6 +5,9 @@ draft: false
 author: Chris Ripley
 comments: true
 layout: post
+description: "Before, my phone beeped like a soft kiss, a nibble; an embrace from another time zone. Now, just a beep. I miss the kiss."
+keywords: ["long distance relationships", "romance", "technology", "love"]
+tags: ["relationships", "technology", "relationships"]
 ---
 Before, my phone beeped like a soft kiss, a nibble; an embrace from another time zone. Now, just a beep. I miss the kiss.
 

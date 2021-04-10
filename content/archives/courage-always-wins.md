@@ -4,6 +4,10 @@ date: 2012-12-11T15:53:44-07:00
 draft: false
 author: Chris Ripley
 layout: post
+description: "Success. Failure. Living."
+tags: ["life", "advice", "courage"]
+keywords: ["life", "lessons"]
+comments: true
 ---
 I have a little motto going: courage always wins.
 It's about looking fear in the eye, not blinking.

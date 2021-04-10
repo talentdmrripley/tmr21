@@ -2,9 +2,13 @@
 title: "A Divorced Man's Death in Pleasantville"
 date: 2012-04-17T15:43:42-07:00
 draft: false
-layout: post
 comments: true
 author: Chris Ripley
+layout: post
+description: "Apparently the neighbors bore my divorce well. They’re not speaking to me either."
+keywords: ["divorce", "neighbors", "family", "kids"]
+tags: ["divorce", "parenting", "coping"]
+featured_image: images/697908ee_Pleasantville-Helping.jpg
 ---
 Things are fine until they’re not. For gods sake don’t disrupt. Routines set like cheap glue. The pieces fit. They fit until they don’t. Deviations disrupt. Divorces disrupt. The cracks creep in. Cracks conspire. Pleasantville might crumble. Don’t disrupt.
 
