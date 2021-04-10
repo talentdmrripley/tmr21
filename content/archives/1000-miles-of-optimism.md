@@ -1,5 +1,5 @@
 ---
-title: "1000 Miles of Optimism"
+title: "1,000 Miles of Optimism"
 date: 2011-08-13T21:40:14-07:00
 draft: false
 description: "To a certain extent, we all mortgage a perfect life later against a pocket full of dreams."

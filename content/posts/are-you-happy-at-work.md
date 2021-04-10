@@ -1,12 +1,12 @@
 ---
 title: "Are You Happy at Work"
 date: 2020-03-15T16:55:54.442Z
-description: >-
-  What if I told you a simple daily score could help you work out how you feel
-  about work?
+description: "What if I told you a simple daily score could help you work out how you feel about work?"
 draft: false
 author: Chris Ripley
 comments: true
+keywords: ["work", "career", "job"]
+tags: ["work", "career", "job"]
 ---
 Am I happy at my job? Does my career challenge me month after month? How does my job make me feel? These are just a few questions we ask ourselves as we navigate our careers. 
 
