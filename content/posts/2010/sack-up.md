@@ -8,6 +8,7 @@ author: Chris Ripley
 description: "Through all the stages of life, a man's nutsack dictates the pace."
 keywords: ["being a man", "nuts", "success vs. failure", "balls"]
 tags: ["life", "being a man"]
+layout: post
 ---
 Too much nutsack or not enough. That's it. Too much nutsack and the by-product of boldness, courage, and self assuredness always at the ready. Or not enough nutsack and the by-product of timidness, hesitation, and self doubt are the order of the day.
 
