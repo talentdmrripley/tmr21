@@ -4,6 +4,7 @@ date: 2020-03-15T16:55:54.442Z
 description: "What if I told you a simple daily score could help you work out how you feel about work?"
 draft: false
 author: Chris Ripley
+layout: post
 comments: true
 keywords: ["work", "career", "job"]
 tags: ["work", "career", "job"]
