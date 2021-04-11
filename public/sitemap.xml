@@ -38,8 +38,64 @@
   </url>
   
   <url>
+    <loc>https://talentdmrripley.com/posts/soccer/</loc>
+    <lastmod>2021-04-10T16:25:50-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/sports/</loc>
+    <lastmod>2021-04-10T16:25:50-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/</loc>
+    <lastmod>2021-04-10T16:25:50-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://talentdmrripley.com/about/</loc>
     <lastmod>2021-04-04T20:30:10-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/wfh-one-year-later/</loc>
+    <lastmod>2021-03-15T23:36:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/work/</loc>
+    <lastmod>2021-03-15T23:36:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/dont-self-reject/</loc>
+    <lastmod>2021-03-08T23:41:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/life/</loc>
+    <lastmod>2021-03-08T23:41:42-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/risk/</loc>
+    <lastmod>2021-03-08T23:41:42-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -60,20 +116,6 @@
   
   <url>
     <loc>https://talentdmrripley.com/posts/2012/courage-always-wins/</loc>
-    <lastmod>2012-12-11T15:53:44-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/life/</loc>
-    <lastmod>2012-12-11T15:53:44-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/</loc>
     <lastmod>2012-12-11T15:53:44-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -221,13 +263,6 @@
   
   <url>
     <loc>https://talentdmrripley.com/tags/growth/</loc>
-    <lastmod>2011-08-25T21:32:16-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/risk/</loc>
     <lastmod>2011-08-25T21:32:16-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
