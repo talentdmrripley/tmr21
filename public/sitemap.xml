@@ -17,8 +17,29 @@
   </url>
   
   <url>
+    <loc>https://talentdmrripley.com/posts/2011/</loc>
+    <lastmod>2021-04-10T22:30:56-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://talentdmrripley.com/posts/</loc>
-    <lastmod>2021-04-10T16:25:50-07:00</lastmod>
+    <lastmod>2021-04-10T22:30:56-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/2012/</loc>
+    <lastmod>2021-04-10T22:14:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/2010/</loc>
+    <lastmod>2021-04-10T22:11:27-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -150,62 +171,6 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/birch-court/</loc>
-    <lastmod>2013-11-01T15:50:51-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/divorce/</loc>
-    <lastmod>2013-11-01T15:50:51-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/family/</loc>
-    <lastmod>2013-11-01T15:50:51-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/parenting/</loc>
-    <lastmod>2013-11-01T15:50:51-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/fiction/</loc>
-    <lastmod>2013-02-13T12:14:15-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/archives/pimp-hand/</loc>
-    <lastmod>2013-02-13T12:14:15-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/purple-prose/</loc>
-    <lastmod>2013-02-13T12:14:15-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://talentdmrripley.com/tags/writing/</loc>
-    <lastmod>2013-02-13T12:14:15-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://talentdmrripley.com/tags/advice/</loc>
     <lastmod>2012-12-11T15:53:44-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -220,7 +185,7 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/courage-always-wins/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/courage-always-wins/</loc>
     <lastmod>2012-12-11T15:53:44-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -234,7 +199,14 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/more-daring/</loc>
+    <loc>https://talentdmrripley.com/tags/divorce/</loc>
+    <lastmod>2012-12-05T15:56:32-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/2012/more-daring/</loc>
     <lastmod>2012-12-05T15:56:32-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -262,14 +234,21 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/random-things-i-learned-from-my-dog-fletch-part-3/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/random-things-i-learned-from-my-dog-fletch-part-3/</loc>
     <lastmod>2012-09-27T17:47:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/hard-knocks/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/hard-knocks/</loc>
+    <lastmod>2012-09-14T17:51:38-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/tags/parenting/</loc>
     <lastmod>2012-09-14T17:51:38-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -283,7 +262,7 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/rashful-reminder/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/rashful-reminder/</loc>
     <lastmod>2012-08-12T17:58:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -297,7 +276,7 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/random-things-i-learned-from-my-dog-fletch-part-2/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/random-things-i-learned-from-my-dog-fletch-part-2/</loc>
     <lastmod>2012-07-30T18:07:42-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -311,14 +290,14 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/random-things-i-learned-from-my-dog-fletch-part-1/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/random-things-i-learned-from-my-dog-fletch-part-1/</loc>
     <lastmod>2012-07-26T18:13:30-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/average/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/average/</loc>
     <lastmod>2012-06-15T20:18:38-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -332,7 +311,14 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/a-divorced-mans-death-in-pleasantville/</loc>
+    <loc>https://talentdmrripley.com/tags/family/</loc>
+    <lastmod>2012-06-15T20:18:38-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://talentdmrripley.com/posts/2012/a-divorced-mans-death-in-pleasantville/</loc>
     <lastmod>2012-04-17T15:43:42-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -353,21 +339,21 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/take-a-chance/</loc>
+    <loc>https://talentdmrripley.com/posts/2011/take-a-chance/</loc>
     <lastmod>2011-08-25T21:32:16-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/1000-miles-of-optimism/</loc>
+    <loc>https://talentdmrripley.com/posts/2011/1000-miles-of-optimism/</loc>
     <lastmod>2011-08-13T21:40:14-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/a-vixen-named-clarity/</loc>
+    <loc>https://talentdmrripley.com/posts/2011/a-vixen-named-clarity/</loc>
     <lastmod>2011-01-17T21:49:03-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -395,7 +381,7 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/sack-up/</loc>
+    <loc>https://talentdmrripley.com/posts/2010/sack-up/</loc>
     <lastmod>2010-11-03T21:57:42-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -408,7 +394,7 @@
   </url>
   
   <url>
-    <loc>https://talentdmrripley.com/archives/heart-phones/</loc>
+    <loc>https://talentdmrripley.com/posts/2012/heart-phones/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
