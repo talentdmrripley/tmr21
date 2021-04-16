@@ -1,6 +1,6 @@
 baseurl = "https://talentdmrripley.com"
 languageCode = "en-us"
-title = "Home"
+title = "talentdmrripley"
 theme = "ananke"
 author = "Chris Ripley"
 disqusShortname = "talentdmrr"
@@ -8,7 +8,15 @@ googleAnalytics = "UA-151349905-1"
 enableRobotsTXT = "true"
 sectionPagesMenu = "main"
 
-
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
 
 [sitemap]
   changefreq = "monthly"
