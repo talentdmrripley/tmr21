@@ -5,11 +5,11 @@ draft: false
 comments: true
 description: "5 things I found 'hot' in the month of April 2021"
 author: Chris Ripley
-categories: ["monthly hot list","april hot","lists"]
-tags: ["lists", "random","star trek","soccer"]
 featured_image: images/stld.jpeg
-summary: "So April 2021 has almost come to a close but here are the things asking for a fair bit of my attention this month. In no particular order."
 layout: post
+summary: "So April 2021 has almost come to a close but here are the things asking for a fair bit of my attention this month. In no particular order."
+keywords: ["monthly hot list","april hot","lists"]
+tags: ["lists", "random","star trek","soccer"]
 ---
 
 So April 2021 has almost come to a close but here are the things asking for a fair bit of my attention this month. In no particular order:
