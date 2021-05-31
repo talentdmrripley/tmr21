@@ -10,6 +10,7 @@ featured_image: images/OI000086.JPG
 keywords: ["may","hot things","grandchildren"]
 tags: ["life", "hot things", "may"]
 ---
+May was a fast month with some milestones. Not only is the fog of the pandemic lifting and we're able to move in the direction of normal again, there were some brand new additions to reality as I know it.
 
 ### 1. Grand entrance 
 
