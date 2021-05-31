@@ -21,6 +21,8 @@ There's something about when your babies have babies that you finally feel semi-
 
 {{< figure src="/images/untitled-5180071.jpg" caption="Lana's dad (Curt), Great Papa, and Big Poppy." >}}
 
+Being a grandpa to a brand new granddaughter is all so new. I adore this little human quite a bit, and want to spend time with her without being too annoying to her parents. We'll see how it all goes :)
+
 
 ### 2. Working from work
 
