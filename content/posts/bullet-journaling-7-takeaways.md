@@ -7,7 +7,7 @@ author: Chris Ripley
 layout: post
 comments: true
 keywords: ["books", "Ryder Carroll", "bullet journal"]
-tags: ["reading", "books", "life hack", "career"]
+tags: ["reading", "books", "life hack", "career", "work"]
 ---
 Back in January, I downloaded Ryder Carroll's book, [The Bullet Journal Method](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=asc_df_0525533338/?tag=hyprod-20&linkCode=df0&hvadid=312104274912&hvpos=1o1&hvnetw=g&hvrand=4302620717105397799&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033767&hvtargid=aud-798931705416:pla-524552078099&psc=1). 
 

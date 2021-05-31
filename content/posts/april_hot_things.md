@@ -8,8 +8,8 @@ author: Chris Ripley
 featured_image: images/stld.jpeg
 layout: post
 summary: "So April 2021 has almost come to a close but here are the things asking for a fair bit of my attention this month. In no particular order."
-keywords: ["monthly hot list","april hot","lists"]
-tags: ["lists", "random","star trek","soccer"]
+keywords: ["monthly hot list", "april hot", "lists"]
+tags: ["lists", "random", "star trek", "soccer", "hot things"]
 ---
 
 So April 2021 has almost come to a close but here are the things asking for a fair bit of my attention this month. In no particular order:
