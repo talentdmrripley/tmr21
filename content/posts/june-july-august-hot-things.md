@@ -14,7 +14,7 @@ Summer 2021 warps out of sight, moves too fast. The weeks come and go, repeat, r
 
 ### Wins
 - Early camping trip in June
-- Lane Jane getting more and more cute each week
+- Lana Jane getting more and more cute each week
 - Being a grandpa
 - Marketing team work week in Pullman
 - Trailside Brewery and Red Card Pub in Pullman, getting to know others
